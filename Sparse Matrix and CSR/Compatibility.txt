@@ -1,0 +1,17 @@
+|Author|:
+Stavros Gkounis
+
+|Compatibility Details|:
+
+A) Python Version : THE PYTHON CODE IS WRITTEN IN PYTHON 3.5.2 VERSION.
+B) Operating System : Linux Ubuntu
+C) Python IDE : PyCharm
+D) Editor : Atom
+
+This directory contains 3 files, if we ignore the file that is opened right now.
+
+   All Scipts must be considered as modules in order to use the function. (Only for non-interactive execution)
+
+   Index.py: This file is considered as Python Module. So you must run the python from this directory or to reach this directory
+   using python's directory change command. Otherwise, the python code of Compressed_Sparse_Row.py and Sparse_Matrix.py is not going
+   to run at all.
